@@ -53,7 +53,8 @@
         depth: $DEPTH_DEFAULT
     remotes:
         oca: https://github.com/OCA/connector-redmine.git
+        elego: https://github.com/elego/connector-redmine.git
     target:
-        oca $ODOO_VERSION
+        oca 10.0-redmine-connector-elego
     merges:
-        - oca $ODOO_VERSION
+        - oca 10.0-redmine-connector-elego
