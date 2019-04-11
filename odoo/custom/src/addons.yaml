@@ -1,0 +1,11 @@
+connector-redmine:
+    - connector_redmine
+    - redmine_import_time_entry
+
+oca-connector:
+    - component
+    - component_event
+    - connector
+
+oca-queue:
+    - queue_job
