@@ -1,3 +1,3 @@
-# Dockerized Odoo project scaffolding
+# Dockerized project for oca-redmine-connector development
 
-[Read the docs.](https://github.com/Tecnativa/doodba#scaffolding)
+Based on Tecnativa's [Doodba scaffolding](https://github.com/Tecnativa/doodba#scaffolding)
