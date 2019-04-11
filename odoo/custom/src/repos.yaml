@@ -55,6 +55,6 @@
         oca: https://github.com/OCA/connector-redmine.git
         elego: https://github.com/elego/connector-redmine.git
     target:
-        oca 10.0-redmine-connector-elego
+        elego 10.0-redmine-connector-elego
     merges:
-        - oca 10.0-redmine-connector-elego
+        - elego 10.0-redmine-connector-elego
